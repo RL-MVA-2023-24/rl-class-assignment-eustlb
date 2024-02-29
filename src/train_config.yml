@@ -1,0 +1,8 @@
+batch_size: 256
+gamma: 0.95
+eps_start: 1.
+eps_end: 0.2
+eps_decay: 10000
+tau: 0.005
+lr: 1e-4
+
